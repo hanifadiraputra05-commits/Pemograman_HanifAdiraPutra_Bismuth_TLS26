@@ -1,7 +1,12 @@
 # Pemograman_HanifAdiraPutra_Bismuth_TLS26
-Hii, i am Hanif Adira Putra from Bismuth and i want to share my programs about the problems of The Last Astronaut and Alien In the Middle
 
-Nice to meet you :)
+Hi, I’m Hanif Adira Putra, you can call me Hanif or Adira.
+
+I am from the Bismuth group and the Information Technology study program at UGM in Undergraduate.
+
+Here, I am attempting to solve two sets of TLS problems: "The Last Astronaut" and "Alien in the Middle."
+
+Nice to meet you all :)
 
 
    
